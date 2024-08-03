@@ -1,0 +1,38 @@
+Student 4 has arrived at the print station at time 1
+Student 2 has arrived at the print station at time 2
+Student 9 has arrived at the print station at time 2
+Student 13 has arrived at the print station at time 2
+Student 1 has arrived at the print station at time 3
+Student 5 has arrived at the print station at time 3
+Student 8 has arrived at the print station at time 3
+Student 10 has arrived at the print station at time 3
+Student 3 has arrived at the print station at time 4
+Student 6 has arrived at the print station at time 4
+Student 7 has arrived at the print station at time 4
+Student 14 has arrived at the print station at time 4
+Student 15 has arrived at the print station at time 4
+Student 12 has arrived at the print station at time 5
+Staff 2 has started reading the entry book at time 5. No. of submission = 0
+Student 11 has arrived at the print station at time 6
+Staff 1 has started reading the entry book at time 6. No. of submission = 0
+Staff 2 has started reading the entry book at time 12. No. of submission = 0
+Staff 1 has started reading the entry book at time 12. No. of submission = 0
+Group 2 has finished printing  at time 17
+Group 2 has submitted the report  at time 17
+Group 1 has finished printing  at time 20
+Staff 2 has started reading the entry book at time 20. No. of submission = 1
+Staff 1 has started reading the entry book at time 22. No. of submission = 1
+Group 3 has finished printing  at time 24
+Group 1 has submitted the report  at time 19
+Staff 1 has started reading the entry book at time 26. No. of submission = 2
+Staff 2 has started reading the entry book at time 26. No. of submission = 2
+Group 3 has submitted the report  at time 23
+Staff 2 has started reading the entry book at time 31. No. of submission = 3
+Staff 1 has started reading the entry book at time 34. No. of submission = 3
+Staff 2 has started reading the entry book at time 34. No. of submission = 3
+Staff 2 has started reading the entry book at time 40. No. of submission = 3
+Staff 1 has started reading the entry book at time 41. No. of submission = 3
+Staff 2 has started reading the entry book at time 45. No. of submission = 3
+Staff 1 has started reading the entry book at time 47. No. of submission = 3
+Staff 2 has started reading the entry book at time 49. No. of submission = 3
+Staff 1 has started reading the entry book at time 54. No. of submission = 3
