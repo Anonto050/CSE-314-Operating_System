@@ -15,8 +15,8 @@ This repository contains implementations of assignments from the Operating Syste
 **`Online`**
 
 - [Resources](/Online%201/Resources)
-- [Subsection A2](/Online%201/A2)
-- [Subsection B2](/Online%201/B2)
+- [A2 : Problem and Solution](/Online%201/A2)
+- [B2 : Problem and Solution](/Online%201/B2)
 
 ### **Xv6 System Call**
 
