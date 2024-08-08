@@ -2,7 +2,6 @@
 
 This repository contains implementations of assignments from the Operating System course offered in the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET).
 
----
 
 ## **Assignments**
 
@@ -26,28 +25,30 @@ This repository contains implementations of assignments from the Operating Syste
 - [Solution](/Offline%202/Offline-2-files)
 - [Resources](/Offline%202/Resources)
 
-### **Inter Process Communication**
+### **Xv6 Lottery Scheduling**
 
 **`Offline 3`**
 
-- [Problem Statement](Offline%203%20(Inter%20Process%20Communication)/IPC%20Offline%20updated.pdf)
-- [Solution](Offline%203%20(Inter%20Process%20Communication))
+- [Problem Statement](/Offline%203/_CSE-314--assignment-03.pdf)
+- [Resources](/Offline%203)
 
-### **Xv6 Lottery Scheduling**
+
+### **Inter Process Communication**
 
 **`Offline 4`**
 
-- [Problem Statement](Offline%204%20(Xv6%20Lottery%20Scheduling)/README.md)
-- [Solution](Offline%204%20(Xv6%20Lottery%20Scheduling))
+- [Problem Statement](/Offline%204/IPC%20Offline.pdf)
+- [Solution](/Offline%204)
+- [Resources](/Offline%204/Materials)
 
 
 ### **Xv6 Threading and Synchronization**
 
 **`Offline 5`**
 
-- [Problem Statement](Offline%206%20(Xv6%20Threading%20and%20Synchronization)/README.md)
-- [Solution](Offline%206%20(Xv6%20Threading%20and%20Synchronization))
-
+- [Problem Statement](https://github.com/vodro/January2023/blob/main/CSE314/threading/threading_specification.md)
+- [Solution](/Offlline%205)
+- **Note:** Go through the Offline 5 folder for more details and implementation guidelines  
 ---
 
 ### ***Disclaimer***
