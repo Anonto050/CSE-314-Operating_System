@@ -14,8 +14,9 @@ This repository contains implementations of assignments from the Operating Syste
 
 **`Online`**
 
-- [Problem Statement](Online%20(Shell%20Script)/CSE314-Jan-2021_Shell_Script_Online.pdf)
-- [Solution](Online%20(Shell%20Script))
+- [Resources](/Online%201/Resources)
+- [Subsection A2](/Online%201/A2)
+- [Subsection B2](/Online%201/B2)
 
 ### **Xv6 System Call**
 
@@ -48,7 +49,17 @@ This repository contains implementations of assignments from the Operating Syste
 
 - [Problem Statement](https://github.com/vodro/January2023/blob/main/CSE314/threading/threading_specification.md)
 - [Solution](/Offlline%205)
-- **Note:** Go through the Offline 5 folder for more details and implementation guidelines  
+- **Note:** Go through the Offline 5 folder for more details and implementation guidelines
+
+
+### **Xv6 Memory Management: Paging Framework**
+
+**`Offline 6`**
+
+- [Problem Statement](/Offline%206/Offline%206_%20xv6%20Memory%20Management.pdf)
+- [Solution](/Offline%206/1905050.patch)
+
+
 ---
 
 ### ***Disclaimer***
